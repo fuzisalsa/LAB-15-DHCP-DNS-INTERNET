@@ -1,6 +1,9 @@
 # LAB-15-DHCP-DNS-INTERNET
 tanggal 14 agustus 2025
 # konfigurasi DHCP dan DNS pada mikrotik
+
+![m]()
+
 1. masuk ke mikrotik via winbox pilih
    menu: IP > DHCP CLIENT
    klik tanda +
@@ -36,7 +39,7 @@ tanggal 14 agustus 2025
 
 ![I]()
 
-8. pengujian dengan cara cek detail di laptop client.  
+8. pengujian dengan cara cek detail di laptop client.    
 Laptop 1
 
 ![I]()
@@ -44,6 +47,9 @@ Laptop 1
 Laptop 2
 
 ![I]()
+
+# kesimpulan
+Dengan DHCP Server, pembagian alamat IP, gateway, dan DNS ke perangkat klien dilakukan secara otomatis, sehingga meminimalkan kesalahan konfigurasi manual dan menghemat waktu.  
 
 
    
